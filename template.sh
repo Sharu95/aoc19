@@ -1,4 +1,4 @@
-for i in {3..24}
+for i in {1..24}
   do
     mkdir $i
     touch $i/input.txt
